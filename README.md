@@ -46,7 +46,6 @@ This simple flow helps companies:
 - iOS 16.0+
 - Xcode 15.0+
 - Swift 5.9+
-- Physical device recommended (camera required)
 
 ---
 
@@ -54,7 +53,7 @@ This simple flow helps companies:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Arakraques/ArakraquesHackaton.git
+   git clone https://github.com/victoraugustotlb/ScanBox.git
    cd scanbox
    ```
 
